@@ -1,0 +1,14 @@
+[
+  {
+    "package": "DA",
+    "oncran": true
+  },
+  {
+    "package": "GenomeAdapt",
+    "oncran": true
+  },
+  {
+    "package": "HierDpart",
+    "oncran": true
+  }
+]
