@@ -18,8 +18,3 @@
 	url = https://github.com/xinghuq/hierdpart
 	shallow = true
 	registered = true
-[submodule "VariantScan"]
-	path = VariantScan
-	url = https://github.com/xinghuq/variantscan
-	shallow = true
-	registered = true

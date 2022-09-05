@@ -10,9 +10,5 @@
   {
     "package": "HierDpart",
     "oncran": true
-  },
-  {
-    "package": "VariantScan",
-    "oncran": true
   }
 ]
