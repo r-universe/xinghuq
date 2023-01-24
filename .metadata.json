@@ -6,9 +6,5 @@
   {
     "package": "GenomeAdapt",
     "oncran": true
-  },
-  {
-    "package": "HierDpart",
-    "oncran": true
   }
 ]
