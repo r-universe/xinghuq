@@ -4,10 +4,10 @@
     "oncran": true
   },
   {
-    "package": "GenomeAdapt",
-    "oncran": true
+    "package": "HierDpart"
   },
   {
-    "package": "HierDpart"
+    "package": "GenomeAdapt",
+    "oncran": true
   }
 ]

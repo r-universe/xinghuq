@@ -8,13 +8,13 @@
 	url = https://github.com/xinghuq/da
 	shallow = true
 	registered = true
-[submodule "GenomeAdapt"]
-	path = GenomeAdapt
-	url = https://github.com/xinghuq/genomeadapt
-	shallow = true
-	registered = true
 [submodule "HierDpart"]
 	path = HierDpart
 	url = https://github.com/xinghuq/hierdpart
+	shallow = true
+	registered = true
+[submodule "GenomeAdapt"]
+	path = GenomeAdapt
+	url = https://github.com/xinghuq/genomeadapt
 	shallow = true
 	registered = true
