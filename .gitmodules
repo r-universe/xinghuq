@@ -5,6 +5,3 @@
 [submodule "DA"]
 	path = DA
 	url = https://github.com/xinghuq/da
-[submodule "GenomeAdapt"]
-	path = GenomeAdapt
-	url = https://github.com/xinghuq/genomeadapt
